@@ -1,7 +1,7 @@
-import {initializeBoardView} from "./components/boards.js";
+import { initalizeBoardView } from './components/boards.js';
 
 const initializeApp = () => {
-    initializeBoardView();
-};
+    initalizeBoardView();
+}
 
 initializeApp();
